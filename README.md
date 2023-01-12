@@ -1,6 +1,6 @@
 # Supesharu
 
-This is a [Next.js](https://nextjs.org/) main project of [Supesharu](https://github.com/Moses-Julian/Supesharu).
+This is a [Next.js](https://nextjs.org/) main project of [Supesharu](https://github.com/Moses-Julian/Supesharu). (currently onhold)
 
 ## Getting Started
 
